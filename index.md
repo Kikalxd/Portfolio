@@ -1,7 +1,7 @@
 # <b>Kikal BIO</b>
 
 
-![Imgur](https://imgur.com/a/3bgDGzB)
+![photo](https://github.com/Kikalxd/Portfolio/blob/gh-pages/avathar.png)
 
 -a <b>writer</b> and <b>creator</b>
 
