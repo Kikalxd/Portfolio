@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+# <b>Kikal BIO</b>
 
-You can use the [editor on GitHub](https://github.com/Kikalxd/copy-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Imgur](https://imgur.com/a/3bgDGzB)
 
-### Markdown
+-a <b>writer</b> and <b>creator</b>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-specializing in the <b>Ethereum</b>, <b>NFT</b>, and <b>DeFi</b> beats
 
-```markdown
-Syntax highlighted code block
+-creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
 
-# Header 1
-## Header 2
-### Header 3
+-creating and trading <b>NFTs</b>
 
-- Bulleted
-- List
+-learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
 
-1. Numbered
-2. List
+-writing <b>fiction</b> and <b>poetry</b>
 
-**Bold** and _Italic_ and `Code` text
+-Crypto holdings: ETH
 
-[Link](url) and ![Image](src)
-```
+-NFT holdings: CrypToadz, Cool Cats, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
+assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, Oddstronauts, assorted Hic et Nunc works
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+# <b>EDUCATION</b> 
 
-### Jekyll Themes
+-University of West Florida, Bachelor’s degree, <b>Creative Writing</b> (2014)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kikalxd/copy-portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-Enterprise-Ozark State Community College, Associate’s degree, <b>English</b> (2012)
 
-### Support or Contact
+# <b>RECENT WORK HISTORY
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-<b>Bankless</b> (Analyst and writer, Metaversal lead)
+  
+-<b>JPG</b> (Writer, community lead)
+
+-<b>DAOSquare - MuseX</b> (Advisor - previous)
+
+-<b>DeFi Pulse</b> (Analyst and writer - previous)
+
+-<b>nft42</b> (Analyst and writer - previous)
+  
+-<b>Async Art</b> (Writer - previous)
+
+-<b>defiprime</b> (Writer - previous)
+
+# <b>PORTFOLIO SAMPLES</b>
+
+### Writing examples  
+  
+-[Rhizomatic NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/rhizomatic-nfts-)
+  
+-[The new Noun times - *Metaversal*](https://metaversal.banklesshq.com/p/the-new-noun-times-?s=w)
+  
+-[Decentralized Society (DeSoc) explained - *Metaversal*](https://metaversal.banklesshq.com/p/decentralized-society-desoc-explained?s=w)
+  
+-[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
+  
+-[The metaverse land tax - *Metaversal*](https://metaversal.banklesshq.com/p/the-metaverse-land-tax?s=w)
+  
+-[How to make an open metaverse - *Metaversal*](https://metaversal.banklesshq.com/p/how-to-make-an-open-metaverse?s=w)
+  
+-[NFT worldbuilding projects - *Metaversal*](https://metaversal.banklesshq.com/p/nft-worldbuilding-projects?s=w)
+  
+
+***
+
+*Hmu on Twitter ([@swagmonster106](https://twitter.com/swagmonster106))
