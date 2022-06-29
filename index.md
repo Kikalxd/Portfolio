@@ -5,26 +5,18 @@
 
 -a <b>writer</b> and <b>creator</b>
 
--specializing in the <b>Ethereum</b>, <b>NFT</b>, and <b>DeFi</b> beats
+-specializing in the <b>Ethereum/Solana</b>, <b>NFT</b>, and <b>DeFi</b> beats
 
--creator of the <b>DeFi Arts Intelligencer</b> (now <b>[Metaversal](https://metaversal.banklesshq.com/)</b> through Bankless)
+-creator of the <b>dYdX Weekly news recap</b>
 
 -creating and trading <b>NFTs</b>
 
--learning <b>German</b>, <b>Spanish</b>, and <b>French</b>
+-speaking <b>English</b>, <b>French</b>, and <b>Russian</b>
 
--writing <b>fiction</b> and <b>poetry</b>
+-writing <b>twitter threads</b> and <b>articles</b>
 
--Crypto holdings: ETH
+-Crypto holdings: ETH, BTC, SOL
 
--NFT holdings: CrypToadz, Cool Cats, Blitnauts, Shades of You, SALT, assorted Art Blocks works, 
-assorted SuperRare works, Digirocks, Finiliar, rektguy, Tubby Cats, Lil Nouns, Oddstronauts, assorted Hic et Nunc works
-
-# <b>EDUCATION</b> 
-
--University of West Florida, Bachelor’s degree, <b>Creative Writing</b> (2014)
-
--Enterprise-Ozark State Community College, Associate’s degree, <b>English</b> (2012)
 
 # <b>RECENT WORK HISTORY
 
