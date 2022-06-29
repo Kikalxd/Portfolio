@@ -20,29 +20,23 @@
 
 # <b>RECENT WORK HISTORY
 
--<b>Bankless</b> (Analyst and writer, Metaversal lead)
+-<b>dYdX</b> (Content creator, translator, social media mod)
   
--<b>JPG</b> (Writer, community lead)
+-<b>Axelar</b> (Discord/Social media mod)
 
--<b>DAOSquare - MuseX</b> (Advisor - previous)
-
--<b>DeFi Pulse</b> (Analyst and writer - previous)
-
--<b>nft42</b> (Analyst and writer - previous)
+-<b>Solcial</b> (Ambassador, Content writer, Content creator)
   
--<b>Async Art</b> (Writer - previous)
-
--<b>defiprime</b> (Writer - previous)
+-<b>SupraOracles</b> (Translator)
 
 # <b>PORTFOLIO SAMPLES</b>
 
 ### Writing examples  
   
--[Rhizomatic NFTs - *Metaversal*](https://metaversal.banklesshq.com/p/rhizomatic-nfts-)
+-[Iron Fish or how we`ll make blockchain genuinly private](https://kikal6.medium.com/iron-fish-or-how-we-ll-make-blockchain-genuinly-private-628fa3286541)
   
--[The new Noun times - *Metaversal*](https://metaversal.banklesshq.com/p/the-new-noun-times-?s=w)
+-[SkateX — newborn Blockchain legend.](https://kikal6.medium.com/skatex-newborn-blockchain-legend-66eb81523b48)
   
--[Decentralized Society (DeSoc) explained - *Metaversal*](https://metaversal.banklesshq.com/p/decentralized-society-desoc-explained?s=w)
+-[Iron Fish — Promising Ambassador Program… AND a Testnet!](https://kikal6.medium.com/iron-fish-ambassador-program-testnet-239b679c7d97)
   
 -[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
   
