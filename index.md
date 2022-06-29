@@ -1,7 +1,7 @@
 # <b>Kikal BIO</b>
 
 
-![photo](/Portfolio/blob/gh-pages/avathar.png)
+![photo](/gh-pages/avathar.png)
 
 -a <b>writer</b> and <b>creator</b>
 
