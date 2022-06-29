@@ -33,18 +33,20 @@
 ### Writing examples  
   
 -[Iron Fish or how we`ll make blockchain genuinly private](https://kikal6.medium.com/iron-fish-or-how-we-ll-make-blockchain-genuinly-private-628fa3286541)
+
+-[Iron Fish — Promising Ambassador Program… AND a Testnet!](https://kikal6.medium.com/iron-fish-ambassador-program-testnet-239b679c7d97)
   
 -[SkateX — newborn Blockchain legend.](https://kikal6.medium.com/skatex-newborn-blockchain-legend-66eb81523b48)
   
--[Iron Fish — Promising Ambassador Program… AND a Testnet!](https://kikal6.medium.com/iron-fish-ambassador-program-testnet-239b679c7d97)
+-[What happened this week? (21–28th March) - *dYdX Weekly Recap*](https://medium.com/@dYdXweekly/what-happened-this-week-f7037488dcbc)
   
--[Metaversal barbarians at the gate - *Metaversal*](https://metaversal.banklesshq.com/p/metaversal-barbarians-at-the-gate?s=w)
+-[What happened this week? (28 March — 03 April) - *dYdX Weekly Recap*](https://medium.com/@dYdXweekly/what-happened-this-week-d43fae22a78d)
   
--[The metaverse land tax - *Metaversal*](https://metaversal.banklesshq.com/p/the-metaverse-land-tax?s=w)
+-[What happened this week? (4–11 April) - *dYdX Weekly Recap*](https://medium.com/@dYdXweekly/what-happened-this-week-4-11-april-89ae08bdf356)
   
--[How to make an open metaverse - *Metaversal*](https://metaversal.banklesshq.com/p/how-to-make-an-open-metaverse?s=w)
-  
--[NFT worldbuilding projects - *Metaversal*](https://metaversal.banklesshq.com/p/nft-worldbuilding-projects?s=w)
+-[What happened this week? (11–19 April) - *dYdX Weekly Recap*](https://medium.com/@dYdXweekly/what-happened-this-week-11-19-april-699b4e61b3ea)
+
+-[What happened this week? (25 April — 2 May) - *dYdX Weekly Recap*](https://medium.com/@dYdXweekly/what-happened-this-week-25-april-2-may-a3c8e71b2659)
   
 
 ***
