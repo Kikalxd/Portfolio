@@ -1,7 +1,7 @@
 # <b>Kikal BIO</b>
 
 
-![photo](/data/assets/small_avathar.png)
+![photo](/data/assets/avathar2.jpg)
 
 -a <b>writer</b> and <b>creator</b>
 
