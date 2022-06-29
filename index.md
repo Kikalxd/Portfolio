@@ -7,7 +7,7 @@
 
 -specializing in the <b>Ethereum/Solana</b>, <b>NFT</b>, and <b>DeFi</b> beats
 
--creator of the <b>dYdX Weekly news recap</b>
+-creator of the <b>infamous dYdX Weekly news recap</b>
 
 -creating and trading <b>NFTs</b>
 
