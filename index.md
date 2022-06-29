@@ -32,7 +32,7 @@
 
 ### Writing examples  
   
--[Iron Fish or how we`ll make blockchain genuinly private](https://kikal6.medium.com/iron-fish-or-how-we-ll-make-blockchain-genuinly-private-628fa3286541)
+-[Iron Fish or how we`ll make blockchain genuinly private ](https://kikal6.medium.com/iron-fish-or-how-we-ll-make-blockchain-genuinly-private-628fa3286541)
 
 -[Iron Fish — Promising Ambassador Program… AND a Testnet!](https://kikal6.medium.com/iron-fish-ambassador-program-testnet-239b679c7d97)
   
