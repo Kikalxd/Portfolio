@@ -51,4 +51,4 @@
 
 ***
 
-*Hmu on Twitter ([@swagmonster106](https://twitter.com/swagmonster106))
+*Hit me up on Twitter ([@swagmonster106](https://twitter.com/swagmonster106))
